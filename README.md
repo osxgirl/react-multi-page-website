@@ -1,4 +1,4 @@
-# React App Multi Page App
+# React App Multi Page Blog ✍🏽 App
 https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
 thank you.
 
@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+//❤️
