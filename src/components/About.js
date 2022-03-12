@@ -20,6 +20,10 @@ function About() {
               ever since the 1500s, when an unknown printer took a galley of
               type and scrambled it to make a type specimen book.
             </p>
+          <h3>
+            Fancy display heading
+            <small class="text-muted">With faded secondary text</small>
+          </h3>
           </div>
         </div>
       </div>

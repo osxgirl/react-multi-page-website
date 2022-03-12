@@ -1,6 +1,6 @@
 # React App Multi Page Blog ✍🏽 App
 https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
-thank you.
+thank you, https://syam.me/
 
 
 

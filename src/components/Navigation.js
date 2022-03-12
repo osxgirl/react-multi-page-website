@@ -4,10 +4,10 @@ import { NavLink } from "react-router-dom";
 function Navigation() {
   return (
     <div className="navigation">
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
+      <nav className="navbar navbar-expand navbar-sm bg-light">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            React Multi-Page Website
+            React Blog
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
